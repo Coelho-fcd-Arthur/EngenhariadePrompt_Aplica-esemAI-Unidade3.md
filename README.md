@@ -1,57 +1,57 @@
-# Hey there! 👋 I'm Arthur Coelho
+# Olá, Sou Arthur Coelho 👋
 
-Welcome to my GitHub profile! I'm a passionate developer committed to building impactful software and contributing to the open-source community.
+Bem-vindo ao meu perfil do GitHub! Sou um desenvolvedor apaixonado por construir soluções inovadoras e contribuir para projetos de código aberto.
 
-## 🚀 About Me
+## 🚀 Sobre Mim
 
-I'm a software developer with a love for clean code, innovative solutions, and continuous learning. On this profile, you'll find a collection of projects that showcase my interests and expertise across various technologies and domains.
+Sou um desenvolvedor de software com interesse aguçado em escrever código limpo e eficiente, além de colaborar com equipes talentosas. Adoro enfrentar problemas desafiadores e aprender continuamente novas tecnologias.
 
-## 💻 What I Do
+- 🔭 **Atualmente trabalhando em:** Projetos empolgantes que ultrapassam os limites do possível
+- 🌱 **Sempre aprendendo:** Novos frameworks, linguagens e melhores práticas
+- 💡 **Apaixonado por:** Código limpo, contribuições de código aberto e experiência do desenvolvedor
+- ⚡ **Curiosidade:** Gosto tanto de trabalho técnico profundo quanto de resolução criativa de problemas
 
-- **Develop** applications that solve real-world problems
-- **Contribute** to open-source projects
-- **Learn** and explore new technologies and frameworks
-- **Collaborate** with talented developers from around the world
+## 🛠️ Stack Tecnológico
 
-## 🛠️ Tech Stack
+### Linguagens
+- JavaScript / TypeScript
+- Python
+- Java
+- SQL
 
-- **Languages:** JavaScript, Python, TypeScript, and more
-- **Frontend:** React, Vue, HTML5, CSS3
-- **Backend:** Node.js, Express, databases
-- **Tools & Platforms:** Git, Docker, GitHub Actions, CI/CD
+### Frameworks & Ferramentas
+- React
+- Node.js
+- Git
+- Docker
 
-## 📊 GitHub Stats
+## 📊 Estatísticas do GitHub
 
-![Arthur's GitHub stats](https://github-readme-stats.vercel.app/api?username=Coelho-fcd-Arthur&show_icons=true&theme=radical)
+![Visualizações do Perfil](https://komarev.com/ghpvc/?username=Coelho-fcd-Arthur&style=flat-square)
 
-## 🎯 Featured Projects
+## 🎯 Projetos em Destaque
 
-Here are some of my notable projects:
+Aqui estão alguns dos meus projetos notáveis:
 
-- **[Project Name 1](link)** - Brief description of what this project does
-- **[Project Name 2](link)** - Brief description of what this project does
-- **[Project Name 3](link)** - Brief description of what this project does
+- **[Nome do Projeto]** - Breve descrição do que faz
+- **[Outro Projeto]** - O que torna este projeto interessante
+- **[Terceiro Projeto]** - Principais recursos ou tecnologias utilizadas
 
-## 🌟 Highlights
+## 🤝 Vamos nos Conectar
 
-- 🎓 Continuous learner and tech enthusiast
-- 🤝 Open to collaborations and new opportunities
-- 💡 Problem-solver with a focus on scalability and performance
-- 🌍 Interested in contributing to meaningful projects
+- 💼 [LinkedIn](seu-url-linkedin)
+- 🐦 [Twitter](seu-url-twitter)
+- 📧 [Email](mailto:seu-email@example.com)
+- 🌐 [Portfólio](seu-url-portfolio)
 
-## 📫 Let's Connect!
+## 💬 Aberto à Colaboração
 
-I'd love to hear from you! Feel free to reach out:
-
-- **Email:** your-email@example.com
-- **LinkedIn:** [Your LinkedIn Profile](link)
-- **Twitter:** [@your_handle](link)
-- **Portfolio:** [Your Website](link)
-
-## 📈 Recent Activity
-
-Check out my latest repositories and contributions to see what I'm currently working on!
+Sou sempre interessado em:
+- Colaborar em projetos de código aberto
+- Discutir arquitetura de software e padrões de design
+- Compartilhar conhecimento e aprender com outros
+- Construir projetos significativos que criem impacto
 
 ---
 
-**Thanks for visiting my profile!** Feel free to explore my repositories, and don't hesitate to reach out if you'd like to collaborate or chat about tech! 🚀
+**Feito com ❤️ por Arthur**
